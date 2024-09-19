@@ -3,8 +3,8 @@
 <p align="center">
   <table>
     <tr>
-      <td><img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabriellemllo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub"/></td>
-      <td><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriellemllo&layout=compact&langs_count=6&theme=tokyonight" alt="Línguas mais usadas"/></td>
+      <td><img height="180em" src="https://github-readme-stats.vercel.app/api?username=iti0027&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub"/></td>
+      <td><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iti0027&layout=compact&langs_count=6&theme=tokyonight" alt="Línguas mais usadas"/></td>
     </tr>
   </table>
 </p>
