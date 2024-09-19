@@ -1,5 +1,15 @@
 ### Olá! Eu sou o ítalo Cézar 👋
 
+<p align="center">
+  <table>
+    <tr>
+      <td><img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabriellemllo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub"/></td>
+      <td><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriellemllo&layout=compact&langs_count=6&theme=tokyonight" alt="Línguas mais usadas"/></td>
+    </tr>
+  </table>
+</p>
+
+
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/italo-cezar/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/italovercoza/)
 
